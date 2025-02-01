@@ -25,4 +25,5 @@ You can find the source code here:
 
 ## Enjoy! <3
 
-![Screenshot of menu]([https://github.com/user-attachments/assets/e8c21ff8-646c-40ac-831e-f6af848cdd5e](https://github.com/Femfus/Millionware-source/blob/main/Mw.png))
+![Millionware Menu](https://github.com/user-attachments/assets/78ba52e3-9732-40f0-a5cd-d42313a4062e)
+
